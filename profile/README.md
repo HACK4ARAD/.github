@@ -1,5 +1,10 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HACK4ARAD/.github/main/profile/assets/logo-dark.png">
+  <img src="https://raw.githubusercontent.com/HACK4ARAD/.github/main/profile/assets/logo-light.png" alt="logo AradExperience" width="132">
+</picture>
+
 # AradExperience
 
 **Arad, într-o singură aplicație.**

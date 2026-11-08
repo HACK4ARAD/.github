@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 6 184 100">
+  <path fill="#111" fill-rule="evenodd" d="M53.25 13a43 43 0 1 0 0 86a43 43 0 1 0 0-86zM53.5 34.25a21.5 21.5 0 1 1 0 43a21.5 21.5 0 1 1 0-43z"/>
+  <rect x="75" y="13" width="22" height="86" rx="11" fill="#111"/>
+  <line x1="122.75" y1="19.25" x2="178.75" y2="92.75" stroke="#111" stroke-width="21.5" stroke-linecap="round"/>
+  <line x1="178.75" y1="19.25" x2="122.75" y2="92.75" stroke="#FF5A36" stroke-width="21.5" stroke-linecap="round"/></svg>
