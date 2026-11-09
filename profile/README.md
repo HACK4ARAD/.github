@@ -169,4 +169,8 @@ Baza se umple singură la pornire cu datele demo, din migrările Flyway. Cheia C
 
 [ZOCZELI](https://github.com/ZOCZELI) · [LukasL2004](https://github.com/LukasL2004) · [vaidaoctav](https://github.com/vaidaoctav) · [DamAndrei04](https://github.com/DamAndrei04)
 
+## Drepturi de autor
+
+© 2026 Echipa AradExperience (Hack4Arad 2026). **Toate drepturile rezervate.** Codul e public doar ca să poată fi văzut; copierea, modificarea sau folosirea lui în alt proiect cer acordul nostru scris (detalii în fișierul `LICENSE` din fiecare repo). *Copyright © 2026 the AradExperience team. All rights reserved.*
+
 <sub>Pozele obiectivelor și ale ofertelor: Wikimedia Commons (CC BY / CC BY-SA / domeniu public); autorii și licențele, în [AradEx-Plan/design](https://github.com/HACK4ARAD/AradEx-Plan/blob/main/design/README.md). Datele despre transport: CTP Arad.</sub>
